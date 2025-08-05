@@ -11,7 +11,7 @@
 <p align="left"> </p>
 <img width="886" height="892" alt="Desafio do Amigo Secreto - Tela Pergunta se finaliza ou gera novo sorteio - 2025-08-05 001201" src="https://github.com/user-attachments/assets/19752697-46b5-416d-9fe4-29b52d7cd3d8" />
 <h2 align="left"> Acesso ao Projeto: </h2>
-<p align="left">  </p>
+<p align="left"> https://github.com/MR210000/challenge-amigo-secreto_pt-main </p>
 <p align="left"> https://challenge-amigo-secreto-pt-main-delta.vercel.app/ </p>  
 <h2 align="left"> Tecnologias utilizadas: </h2>
 <p align="left"> JavaScript - HTML - CSS. </p>
